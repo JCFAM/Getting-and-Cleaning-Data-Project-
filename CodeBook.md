@@ -1,7 +1,9 @@
 The Code book includes
 Subject:The participant ("subject") ID
 activity  - The label of the activity performed when the corresponding measurements were 
-The extracted fields are the fields that calculate mean or standard deviation o
+The extracted fields are the fields that calculate mean or standard deviation of 3-axial signals in the X, Y and Z directions
+
+and these variables are calculated per each activity and subject
  [1] "timebodyaccelerometer-mean-x"                           
  [2] "timebodyaccelerometer-mean-y"                           
  [3] "timebodyaccelerometer-mean-z"                           
